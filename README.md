@@ -1,5 +1,4 @@
-Hi there, My name is Fadhil and I'm a front end developer. My main interest lies in web development but I'm also keen in game development. 
-currently I'm a freelancer. You can check out my personal portfolio right here --> fadhilfreelance.netlify.app 
+Hi there, My name is Fadhil and I'm a front end developer. My main interest lies in web development but I'm also keen in game development. You can check out my personal portfolio right here --> fadhilfreelance.netlify.app 
 
 <!---
 Fadhil762/Fadhil762 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
